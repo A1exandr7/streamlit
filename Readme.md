@@ -1,4 +1,7 @@
 # Инструкция по запуску
+Перейти по ссылке [https://streamlit-test-tej7.onrender.com/](https://streamlit-test-tej7.onrender.com/)
+
+Или
 
 1. Скопировать репозиторий с файлами в корневую папку
 ```
