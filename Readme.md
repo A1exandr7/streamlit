@@ -1,5 +1,6 @@
 # Инструкция по запуску
 Перейти по ссылке [https://streamlit-test-tej7.onrender.com/](https://streamlit-test-tej7.onrender.com/)
+- *Загружается около 60-120 секунд*
 
 Или
 
