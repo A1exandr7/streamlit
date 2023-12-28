@@ -91,7 +91,7 @@ st.write("Выбран уровень значимости:", alpha)
 def get_student_parameter(data_one: np.array, data_two: np.array) -> float:
 
     """Вычисляет параметр функции распределения Стьюдента."""
-    len_one, len_two = len(data_one), len(data_one)
+    len_one, len_two = len(data_one), len(data_two)
     mean_one, mean_two = np.mean(data_one), np.mean(data_two)
     std_one, std_two = np.std(data_one), np.std(data_two)
     k = (
